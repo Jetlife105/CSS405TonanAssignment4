@@ -1,0 +1,60 @@
+
+Computer science is an exciting field of study.
+Students learn how computers process information and
+solve problems. JAVA is a popular programming language
+used to create applications and software systems.
+
+Data structures help programmers organize information.
+An array stores elements in a sequence, while a tree
+stores information using connected nodes. A binary
+search tree organizes values so that smaller values
+appear on the left and larger values appear on the right.
+
+An AVL tree is a special type of binary search tree.
+The AVL tree maintains balance by performing rotations.
+When a node becomes unbalanced, the tree uses a left
+rotation or a right rotation to restore its structure.
+A balanced tree allows searching and insertion to
+remain efficient as more data is added.
+
+Algorithms are important in computer science because
+they describe the steps needed to solve a problem.
+An efficient algorithm uses fewer resources and
+completes tasks in less time. Programmers compare
+algorithms by examining their time complexity and
+space complexity.
+
+Searching is a common operation in many applications.
+A search algorithm looks for specific information.
+Sorting algorithms arrange information in a particular
+order. In this assignment, the AVL tree stores words
+and counts how often each word appears in a text file.
+
+The program reads a file and converts each word to
+lowercase. It removes punctuation and inserts the
+words into the tree. If a word already exists, the
+program increases its frequency instead of creating
+another node.
+
+Tree traversals allow programmers to visit nodes in
+a specific order. An in-order traversal displays the
+words alphabetically. A level-order traversal uses
+a queue to visit nodes one level at a time.
+
+JAVA programmers use classes and methods to organize
+their code. Each class has a specific responsibility.
+The Node class stores information, while the AVLTree
+class manages insertion, searching, deletion, and
+balancing. The WordFrequencyAnalyzer class reads the
+text file and processes the words.
+
+Testing is an important part of software development.
+Programmers test different inputs to identify errors
+and verify that their programs work correctly.
+A good program should handle repeated words, mixed
+case letters, punctuation, and empty files.
+
+Computer science students practice these concepts
+to improve their programming skills. Understanding
+trees, algorithms, and data structures helps students
+build reliable and efficient software applications.
